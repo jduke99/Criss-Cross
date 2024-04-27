@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://b4nwpbrra72fj"
-path="res://.godot/imported/logo.png-2fe601f5bfdb4883c2584af8b9ce60cf.ctex"
+uid="uid://hh7ubyb18ork"
+path="res://.godot/imported/singer_large.png-b191e3cf7c684d6da57150a86e2f50e0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/criss-cross/editor/logo.png"
-dest_files=["res://.godot/imported/logo.png-2fe601f5bfdb4883c2584af8b9ce60cf.ctex"]
+source_file="res://images/singer_large.png"
+dest_files=["res://.godot/imported/singer_large.png-b191e3cf7c684d6da57150a86e2f50e0.ctex"]
 
 [params]
 

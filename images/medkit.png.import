@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cbocav7hb6iiu"
-path="res://.godot/imported/suitcase.png-941163a84a3e766b9b417487b62be985.ctex"
+uid="uid://b0grxn1fwm7y2"
+path="res://.godot/imported/medkit.png-c38f26a280e0ab87df0880fd776880ad.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://scenes/demos/inventory/suitcase.png"
-dest_files=["res://.godot/imported/suitcase.png-941163a84a3e766b9b417487b62be985.ctex"]
+source_file="res://images/medkit.png"
+dest_files=["res://.godot/imported/medkit.png-c38f26a280e0ab87df0880fd776880ad.ctex"]
 
 [params]
 
